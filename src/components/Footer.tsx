@@ -22,7 +22,7 @@ export const Footer: FC<Props> = ({ style }) => {
         ...style,
       }}
     >
-      <span style={{ color: "#8b8e99" }}>
+      <span style={{ color: "#8b8e99", fontSize: "12px" }}>
         Powered by Jesús Guerrero {yearToday}
       </span>
     </Grid>
