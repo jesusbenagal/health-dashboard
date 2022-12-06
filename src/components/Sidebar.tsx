@@ -13,7 +13,7 @@ export const Sidebar: FC<Props> = ({ children, style }) => {
         backgroundColor: "#201F31",
         width: "50px",
         borderRadius: "0 32px 32px 0",
-        height: "600px",
+        height: "800px",
         boxShadow: "0 0 10px 0 rgba(0, 0, 0, 0.5)",
         ...style,
       }}

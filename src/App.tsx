@@ -3,7 +3,7 @@ function App() {
   return (
     <>
       <MainLayout>
-        <h1>React TypeScript</h1>
+        <h1 style={{ color: "white" }}>React TypeScript</h1>
       </MainLayout>
     </>
   );
